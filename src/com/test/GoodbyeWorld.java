@@ -5,6 +5,11 @@ public class GoodbyeWorld {
 	public static void main(String[] args) {
 		System.out.println("Goodbye world!");
 		letsMakeChanges();
+		andThenSomeMoreChanges();
+	}
+
+	private static void andThenSomeMoreChanges() {
+		System.out.println("Or can we?");
 	}
 
 	private static void letsMakeChanges() {
