@@ -7,6 +7,11 @@ public class GoodbyeWorld {
 		letsMakeChanges();
 		andThenSomeMoreChanges();
 		andYetMore();
+		hereWeGoAgain();
+	}
+
+	private static void hereWeGoAgain() {
+		System.out.println("Insert nonsense here...");
 	}
 
 	private static void andYetMore() {
