@@ -6,6 +6,11 @@ public class GoodbyeWorld {
 		System.out.println("Goodbye world!");
 		letsMakeChanges();
 		andThenSomeMoreChanges();
+		andYetMore();
+	}
+
+	private static void andYetMore() {
+		System.out.println("I don't know what to say!");
 	}
 
 	private static void andThenSomeMoreChanges() {
